@@ -1,0 +1,277 @@
+Path 1
+clearance_state_og: 0.28643053330492524, clearance_state: 0.3667666352322465
+clearance_state_og: 0.21528594949820976, clearance_state: 0.21351858734598766
+clearance_state_og: 0.09014029686908653, clearance_state: 0.0838709137138109
+clearance_state_og: 0.1594949268431495, clearance_state: 0.16796237967530275
+clearance_state_og: 0.16916747490502346, clearance_state: 0.16949080422038934
+clearance_state_og: 0.1613010253531533, clearance_state: 0.15729045706141262
+clearance_state_og: 0.28026417907054496, clearance_state: 0.31254506391132464
+Original Path Cost:  53.343794144920246
+Model Path Cost:  53.449663222641625
+Path length: 8.591845127535777
+
+Path 2
+clearance_state_og: 0.28643053330492524, clearance_state: 0.3748695345997438
+clearance_state_og: 0.17899216116066227, clearance_state: 0.1685920330179197
+clearance_state_og: 0.0800875775982257, clearance_state: 0.1498615728122074
+clearance_state_og: 0.11275725908117482, clearance_state: 0.12974036596680016
+clearance_state_og: 0.09936940721787503, clearance_state: 0.17056921032863945
+clearance_state_og: 0.22790703439811585, clearance_state: 0.2750636577074241
+Original Path Cost:  58.45805705927785
+Model Path Cost:  42.04042063649604
+Path length: 7.3036000722152545
+
+Path 3
+clearance_state_og: 0.28643053330492524, clearance_state: 0.3748695345997438
+clearance_state_og: 0.2978948370804009, clearance_state: 0.29999597009279144
+clearance_state_og: 0.22284387866516733, clearance_state: 0.23866877598849187
+clearance_state_og: 0.08486385812208977, clearance_state: 0.11042872762555676
+clearance_state_og: 0.13381195568860813, clearance_state: 0.12134224879113675
+clearance_state_og: 0.10878674904211413, clearance_state: 0.119248268109371
+clearance_state_og: 0.19599962068878227, clearance_state: 0.23849628308450135
+clearance_state_og: 0.20428488360892608, clearance_state: 0.22039118197982346
+clearance_state_og: 0.27893605547025185, clearance_state: 0.3127241383055722
+Original Path Cost:  70.20967345235198
+Model Path Cost:  63.218314098388284
+Path length: 11.342716011051177
+
+Path 4
+clearance_state_og: 0.28643053330492524, clearance_state: 0.3667666352322465
+clearance_state_og: 0.18153018305142965, clearance_state: 0.20563745165432304
+clearance_state_og: 0.11737319498115958, clearance_state: 0.11361316541352962
+clearance_state_og: 0.0671300123342886, clearance_state: 0.1315812937724863
+clearance_state_og: 0.1304360712314255, clearance_state: 0.12377882858661446
+clearance_state_og: 0.20599841645297456, clearance_state: 0.15824444769037985
+clearance_state_og: 0.15698219434096758, clearance_state: 0.14829525949559966
+clearance_state_og: 0.1910258269777238, clearance_state: 0.22258081124252313
+Original Path Cost:  76.68592176317664
+Model Path Cost:  67.57702120358682
+Path length: 10.65274505318811
+
+Path 5
+clearance_state_og: 0.28643053330492524, clearance_state: 0.3451631393856761
+clearance_state_og: 0.2895363835098955, clearance_state: 0.2744685091804527
+clearance_state_og: 0.17053650616522562, clearance_state: 0.2163190387587447
+clearance_state_og: 0.15189189216559476, clearance_state: 0.10581900409796058
+clearance_state_og: 0.12012608284605461, clearance_state: 0.07947364973462417
+clearance_state_og: 0.1510713301850379, clearance_state: 0.1270289372184213
+clearance_state_og: 0.2495976235675739, clearance_state: 0.2131586760139441
+clearance_state_og: 0.08584710507123283, clearance_state: 0.14149170482248205
+clearance_state_og: 0.13393868400514589, clearance_state: 0.12102032588122495
+clearance_state_og: 0.28482941221114594, clearance_state: 0.35415614918721333
+Original Path Cost:  80.7180169900382
+Model Path Cost:  85.66427843385821
+Path length: 12.69276581084647
+
+Path 6
+clearance_state_og: 0.28643053330492524, clearance_state: 0.36555831701548785
+clearance_state_og: 0.13914267661633556, clearance_state: 0.21578766459821924
+clearance_state_og: 0.023175488460455994, clearance_state: 0.1515154344140481
+clearance_state_og: 0.16781241247893544, clearance_state: 0.12129014834010439
+clearance_state_og: 0.09799705696800803, clearance_state: 0.09199200258460109
+clearance_state_og: 0.08959489075715535, clearance_state: 0.08377970402259705
+clearance_state_og: 0.06769673290091388, clearance_state: 0.0727260007307447
+clearance_state_og: 0.137520480498416, clearance_state: 0.13582449264353258
+clearance_state_og: 0.10613598029828739, clearance_state: 0.18171136595658421
+clearance_state_og: 0.11441762580896567, clearance_state: 0.08925095654066464
+clearance_state_og: 0.2272161663222567, clearance_state: 0.20840438971487527
+clearance_state_og: 0.14011718014706923, clearance_state: 0.20415121012234022
+clearance_state_og: 0.17195802407798375, clearance_state: 0.16527346120392444
+clearance_state_og: 0.22317584446620956, clearance_state: 0.17403420221983754
+clearance_state_og: 0.19167543435440337, clearance_state: 0.20258915488528068
+clearance_state_og: 0.1153589126717164, clearance_state: 0.1747334674786351
+clearance_state_og: 0.13274571906976526, clearance_state: 0.1386066187585242
+clearance_state_og: 0.24024669801253754, clearance_state: 0.23427132795979957
+clearance_state_og: 0.14574301771426948, clearance_state: 0.14629569788559896
+Original Path Cost:  245.3346380739486
+Model Path Cost:  186.5779840233568
+Path length: 26.57914652581324
+
+Path 7
+clearance_state_og: 0.28643053330492524, clearance_state: 0.3481082546544245
+clearance_state_og: 0.13775556012250117, clearance_state: 0.16698125746114925
+clearance_state_og: 0.06987514957460965, clearance_state: 0.1580428563480083
+clearance_state_og: 0.0848390664627239, clearance_state: 0.0854691666732897
+clearance_state_og: 0.08977412467827021, clearance_state: 0.12926519311031387
+clearance_state_og: 0.19829906167572095, clearance_state: 0.20310309871134233
+clearance_state_og: 0.2776771769173343, clearance_state: 0.34373407038252796
+Original Path Cost:  74.93330222258174
+Model Path Cost:  55.905076133039174
+Path length: 8.596232980888047
+
+Path 8
+clearance_state_og: 0.28643053330492524, clearance_state: 0.34276258819051353
+clearance_state_og: 0.24171498222161317, clearance_state: 0.24178280101004188
+clearance_state_og: 0.26694587222878924, clearance_state: 0.2455140759893666
+clearance_state_og: 0.16567896341314722, clearance_state: 0.2088275908171307
+clearance_state_og: 0.06111112800873558, clearance_state: 0.07392551146543849
+clearance_state_og: 0.07957565836008831, clearance_state: 0.14110667284296438
+clearance_state_og: 0.14512525611148008, clearance_state: 0.16763365775793004
+clearance_state_og: 0.0796918626293186, clearance_state: 0.06888242830875425
+clearance_state_og: 0.13285694772455617, clearance_state: 0.10796150090909498
+clearance_state_og: 0.28041194112340234, clearance_state: 0.2990318655287181
+Original Path Cost:  104.03053199754048
+Model Path Cost:  94.25841066302787
+Path length: 13.01547080622208
+
+Path 9
+clearance_state_og: 0.28643053330492524, clearance_state: 0.3451631393856761
+clearance_state_og: 0.23255206234565945, clearance_state: 0.29433236646330135
+clearance_state_og: 0.1327100559159539, clearance_state: 0.12499532134922872
+clearance_state_og: 0.042628152020168536, clearance_state: 0.05318109793574877
+clearance_state_og: 0.08867369452156111, clearance_state: 0.10660548253629017
+clearance_state_og: 0.10106705684626696, clearance_state: 0.14733861494617817
+clearance_state_og: 0.18965221529445986, clearance_state: 0.25824133556259254
+Original Path Cost:  90.16441705620568
+Model Path Cost:  73.44243568199029
+Path length: 9.570001505380585
+
+Path 10
+clearance_state_og: 0.28643053330492524, clearance_state: 0.36555831701548785
+clearance_state_og: 0.25142322169605236, clearance_state: 0.26550695415278247
+clearance_state_og: 0.12966090469424882, clearance_state: 0.1865205006656706
+clearance_state_og: 0.13382771431638055, clearance_state: 0.12260486430251635
+clearance_state_og: 0.08211883745407253, clearance_state: 0.06477300203625931
+clearance_state_og: 0.15347344474733107, clearance_state: 0.15849872103511975
+Original Path Cost:  56.167075746237
+Model Path Cost:  57.07909276648212
+Path length: 8.070421217579641
+
+Path 11
+clearance_state_og: 0.28643053330492524, clearance_state: 0.3481082546544245
+clearance_state_og: 0.16557109881466672, clearance_state: 0.19501038857025246
+clearance_state_og: 0.07148125143309844, clearance_state: 0.11892759486734661
+clearance_state_og: 0.05555244754048985, clearance_state: 0.053123744647254764
+clearance_state_og: 0.1397666180453703, clearance_state: 0.14829547992928502
+clearance_state_og: 0.1940972150146313, clearance_state: 0.17990095776897005
+clearance_state_og: 0.1589925802848161, clearance_state: 0.1898160115465677
+clearance_state_og: 0.2514911293454767, clearance_state: 0.31812631401513536
+Original Path Cost:  85.6435566079434
+Model Path Cost:  75.0139528810114
+Path length: 10.132782686987797
+
+Path 12
+clearance_state_og: 0.28643053330492524, clearance_state: 0.3451631393856761
+clearance_state_og: 0.2547620476006591, clearance_state: 0.2579291240211519
+clearance_state_og: 0.17165135992951394, clearance_state: 0.15976490698481552
+clearance_state_og: 0.0953915154080292, clearance_state: 0.05729325258024977
+clearance_state_og: 0.14386878258100075, clearance_state: 0.10930950682032414
+clearance_state_og: 0.17947224923059998, clearance_state: 0.1900391918022572
+clearance_state_og: 0.08341839832544334, clearance_state: 0.06940717371356982
+clearance_state_og: 0.1134511296223948, clearance_state: 0.13533751458397253
+clearance_state_og: 0.14502651637450434, clearance_state: 0.12652424067464227
+clearance_state_og: 0.041815287500426956, clearance_state: 0.08828585236456145
+clearance_state_og: 0.1592908956664258, clearance_state: 0.22943769601300534
+Original Path Cost:  131.08437942944312
+Model Path Cost:  125.77497820607859
+Path length: 15.292954637636921
+
+Path 13
+clearance_state_og: 0.28643053330492524, clearance_state: 0.3451631393856761
+clearance_state_og: 0.24284054240228972, clearance_state: 0.3007265055787427
+clearance_state_og: 0.2312718905938271, clearance_state: 0.20097459936070639
+clearance_state_og: 0.12826481129567613, clearance_state: 0.1806529250744578
+clearance_state_og: 0.07245450190388988, clearance_state: 0.06077189597412651
+clearance_state_og: 0.10603129219645258, clearance_state: 0.1325652382929919
+clearance_state_og: 0.13760317859343418, clearance_state: 0.19822412050663102
+Original Path Cost:  69.74260287831152
+Model Path Cost:  63.56484628389529
+Path length: 9.709069805668038
+
+Path 14
+clearance_state_og: 0.28643053330492524, clearance_state: 0.3481082546544245
+clearance_state_og: 0.14178837041786876, clearance_state: 0.2325247867887451
+clearance_state_og: 0.1951512293086786, clearance_state: 0.21664329112642058
+clearance_state_og: 0.14469282302479441, clearance_state: 0.13965978164627835
+clearance_state_og: 0.1634463804349213, clearance_state: 0.15304722378559446
+clearance_state_og: 0.13042686802511297, clearance_state: 0.10583077046418603
+clearance_state_og: 0.22731998984905197, clearance_state: 0.22827756240524064
+clearance_state_og: 0.17191605087647913, clearance_state: 0.201755128214308
+clearance_state_og: 0.24433768741631282, clearance_state: 0.25512070754436816
+clearance_state_og: 0.2808961256683619, clearance_state: 0.3529483834874298
+Original Path Cost:  71.09835145926083
+Model Path Cost:  67.51593519222943
+Path length: 12.642768356637912
+
+Path 15
+clearance_state_og: 0.28643053330492524, clearance_state: 0.3481082546544245
+clearance_state_og: 0.20177453053038832, clearance_state: 0.20329741639826213
+clearance_state_og: 0.11540570832225125, clearance_state: 0.10761850557881618
+clearance_state_og: 0.10311442380039562, clearance_state: 0.10673769257906277
+clearance_state_og: 0.07498572019381938, clearance_state: 0.06159504581118134
+clearance_state_og: 0.08414885855237511, clearance_state: 0.0812366923019234
+clearance_state_og: 0.213935964195239, clearance_state: 0.20336686363428358
+clearance_state_og: 0.28990124224440533, clearance_state: 0.3645890293213156
+Original Path Cost:  79.28429099037561
+Model Path Cost:  83.70231348326236
+Path length: 9.801197801588252
+
+Path 16
+clearance_state_og: 0.28643053330492524, clearance_state: 0.34276258819051353
+clearance_state_og: 0.25284251646447653, clearance_state: 0.2731939168950636
+clearance_state_og: 0.16038421282341986, clearance_state: 0.22660215226299754
+clearance_state_og: 0.19975963076850745, clearance_state: 0.22299794341464935
+clearance_state_og: 0.1577929423527137, clearance_state: 0.12019658285640707
+clearance_state_og: 0.14123112662042384, clearance_state: 0.22374061449399957
+clearance_state_og: 0.12554164192158232, clearance_state: 0.15083100347441536
+clearance_state_og: 0.2743000190093215, clearance_state: 0.3432379883416364
+Original Path Cost:  56.565722083116334
+Model Path Cost:  49.13526926202735
+Path length: 9.910825679901318
+
+Path 17
+clearance_state_og: 0.28643053330492524, clearance_state: 0.3481082546544245
+clearance_state_og: 0.23499353480749, clearance_state: 0.2434869674784703
+clearance_state_og: 0.06662688942821539, clearance_state: 0.10453863044526887
+clearance_state_og: 0.11810877931435346, clearance_state: 0.09543527001270521
+clearance_state_og: 0.17202915334158791, clearance_state: 0.1848257973559597
+clearance_state_og: 0.20980434222215608, clearance_state: 0.21221205458668588
+clearance_state_og: 0.22444884875754642, clearance_state: 0.21853617983898885
+Original Path Cost:  64.3307269854615
+Model Path Cost:  57.96072342240585
+Path length: 9.713335267124716
+
+Path 18
+clearance_state_og: 0.28643053330492524, clearance_state: 0.3481082546544245
+clearance_state_og: 0.2427252234369157, clearance_state: 0.20973872722118975
+clearance_state_og: 0.1682124619853166, clearance_state: 0.16057617535951174
+clearance_state_og: 0.10620097414987988, clearance_state: 0.14196497126836763
+clearance_state_og: 0.08470227029131441, clearance_state: 0.11507991342968303
+clearance_state_og: 0.1281963505733141, clearance_state: 0.11239112610296582
+clearance_state_og: 0.19821756336786747, clearance_state: 0.1851363621373417
+clearance_state_og: 0.25685289075545514, clearance_state: 0.25670046394643076
+Original Path Cost:  72.01911101532995
+Model Path Cost:  66.76088687229233
+Path length: 11.194803051940989
+
+Path 19
+clearance_state_og: 0.28643053330492524, clearance_state: 0.34276258819051353
+clearance_state_og: 0.22793647225996358, clearance_state: 0.2997593793326898
+clearance_state_og: 0.19281898418799434, clearance_state: 0.19872831239813402
+clearance_state_og: 0.1915454008294669, clearance_state: 0.2056223228733116
+clearance_state_og: 0.07983073455013001, clearance_state: 0.09069639036266033
+clearance_state_og: 0.0546428103771594, clearance_state: 0.05819372045812246
+clearance_state_og: 0.09094062351157048, clearance_state: 0.10811281690996731
+clearance_state_og: 0.131382505729045, clearance_state: 0.23958134841809833
+clearance_state_og: 0.22084029251695667, clearance_state: 0.2864169397814279
+Original Path Cost:  99.30899471974945
+Model Path Cost:  84.24742598197805
+Path length: 12.173671131022292
+
+Path 20
+clearance_state_og: 0.28643053330492524, clearance_state: 0.3481082546544245
+clearance_state_og: 0.21514719433308402, clearance_state: 0.2596648799513504
+clearance_state_og: 0.13963261329878238, clearance_state: 0.15254887523623506
+clearance_state_og: 0.09357808075198676, clearance_state: 0.07844702764129131
+clearance_state_og: 0.11111816492588936, clearance_state: 0.12327348319759038
+clearance_state_og: 0.08082427506132603, clearance_state: 0.09170879365677718
+clearance_state_og: 0.08203667768702724, clearance_state: 0.0787244358827829
+clearance_state_og: 0.15211418198649598, clearance_state: 0.13312435760064445
+clearance_state_og: 0.2419286911672973, clearance_state: 0.21857761444691598
+clearance_state_og: 0.11283842813157878, clearance_state: 0.18531931186772763
+clearance_state_og: 0.05690073898493713, clearance_state: 0.12379790544787829
+clearance_state_og: 0.20069311281368588, clearance_state: 0.2870273742573594
+Original Path Cost:  139.77789716781274
+Model Path Cost:  119.54245025238487
+Path length: 16.232731042356534
+
